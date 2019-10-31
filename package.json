@@ -2,7 +2,7 @@
   "name": "vocabularyapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eladYitzhari.github.io/myFirstApp/",
+  "homepage": "https://EladYitzhari.github.io/wordApp/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
